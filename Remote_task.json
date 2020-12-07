@@ -9,7 +9,7 @@
         {"config":"6 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, tag=饿了么, enabled=true","addons":"https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Remote_cookie/wmmeituan.txt"},
         {"config":"7 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/didi.png, tag=滴滴出行, enabled=true","addons":"https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Remote_cookie/didi.txt"},
         {"config":"8 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Oclean.png, tag=欧可林, enabled=true","addons":"https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Remote_cookie/Oclean.txt"},
-        {"config":"9 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mihoyo.png, tag=米游社, enabled=true","addons":"https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Remote_cookie/mihoyo.txt"},
+        {"config":"9 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/mihoyo.png, tag=米游社, enabled=true","addons":"https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.cookie.js"}
     ],
     "description":"Github：@NobyDa @chavyleung @zZPiglet"
 }
