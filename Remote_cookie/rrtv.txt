@@ -1,0 +1,6 @@
+# 人人视频
+# 打开 APP, 访问下`个人中心`
+
+hostname = *.rrys2020.com
+
+^https:\/\/api\.rr\.tv\/user\/profile url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.cookie.js
