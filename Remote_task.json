@@ -1,5 +1,5 @@
 {
-    "name":"Local_task",
+    "name":"Remote_task",
     "task":[
         {"config":"50 23 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/rrtv.png, tag=人人视频, enabled=true","addons":"https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Remote_cookie/rrtv.txt"},
         {"config":"0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, tag=京东多合一, enabled=true","addons":"https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Remote_cookie/jd.txt"},
@@ -13,5 +13,5 @@
         {"config":"1 11 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/wmmeituan.png, tag=美团, enabled=true","addons":"https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Remote_cookie/wmmeituan.txt"},
         {"config":"2 11 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, tag=饿了么, enabled=true","addons":"https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Remote_cookie/wmmeituan.txt"}
     ],
-    "description":"自用quanx远程脚本集合,脚本来源Github：@NobyDa @chavyleung @zZPiglet"
+    "description":"Github：@NobyDa @chavyleung @zZPiglet"
 }
