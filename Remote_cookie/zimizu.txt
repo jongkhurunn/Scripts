@@ -1,0 +1,7 @@
+# 字幕组
+# 先在浏览器登录 (先登录! 先登录! 先登录!)，打开浏览器访问: http://www.rrys2020.com
+
+hostname = *.rrys2020.com, ios.zmzapi.com
+
+^https?:\/\/(www\.)?rrys2020\.com\/?.? url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.cookie.js
+^http:\/\/ios.zmzapi.com\/index.php.*a=(mobile_)?login url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.cookie.js
