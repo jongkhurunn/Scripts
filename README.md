@@ -15,3 +15,5 @@
 [@app2smile](https://github.com/app2smile/rules)
 
 [@deezertidal](https://github.com/deezertidal/QuantumultX-Rewrite)
+
+[@89996462](https://github.com/89996462/Quantumult-X)
