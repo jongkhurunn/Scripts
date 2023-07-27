@@ -16,4 +16,6 @@
 
 [@deezertidal](https://github.com/deezertidal/QuantumultX-Rewrite)
 
+[@I-am-R-E](https://github.com/I-am-R-E/QuantumultX/tree/main)
+
 [@89996462](https://github.com/89996462/Quantumult-X)
