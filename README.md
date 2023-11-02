@@ -20,4 +20,8 @@
 
 [@89996462](https://github.com/89996462/Quantumult-X)
 
-[Sliverkiss](https://github.com/Sliverkiss/QuantumultX)
+[@Maasea](https://github.com/Maasea/sgmodule)
+
+[@Sliverkiss](https://github.com/Sliverkiss/QuantumultX)
+
+[@zqzess](https://github.com/zqzess/rule_for_quantumultX)
