@@ -1,0 +1,28 @@
+{
+    "name": "Costin Task Gallery",
+    "description": "",
+    "task": [
+        {
+            "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林, enabled=false",
+            "addons": "https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Local_cookie.conf"
+        },{
+            "config": "0 9 * * * https://raw.githubusercontent.com/shufflewzc/X/main/Tasks/imaotai/imaotai.js, tag=i 茅台, enabled=false",
+            "addons": "https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Local_cookie.conf"
+        },{
+            "config": "30 10 * * * https://gist.githubusercontent.com/Sliverkiss/6b4da0d367d13790a9fd1d928c82bdf8/raw/dlm.js, tag=达美乐, enabled=false",
+            "addons": "https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Local_cookie.conf"
+        },{
+            "config": "3 0 * * * https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/zmhy.js, tag=中免会员, enabled=false",
+            "addons": "https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Local_cookie.conf"
+        },{
+            "config": "10 0 * * * https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.js, tag=阿里云盘, enabled=false",
+            "addons": "https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Local_cookie.conf"
+        },{
+            "config": "8 0 * * * https://gist.githubusercontent.com/Sliverkiss/2e2093bfd5f524d58c8e90fed9beacfd/raw/e399523e428f3c173ec4b95c892725006c3128ff/adjd.js, tag=亚朵签到, enabled=false",
+            "addons": "https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Local_cookie.conf"
+        },{
+            "config": "32 10 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/haidilao/hdl.js, tag=海底捞, enabled=false",
+            "addons": "https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Local_cookie.conf"
+        }
+    ]
+}
