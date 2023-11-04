@@ -3,7 +3,7 @@
     "description": "",
     "task": [
         {
-            "config": "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林, enabled=false",
+            "config": "10 8 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林, enabled=false",
             "addons": "https://raw.githubusercontent.com/jongkhurunn/Scripts/master/Local_cookie.conf"
         },{
             "config": "0 9 * * * https://raw.githubusercontent.com/shufflewzc/X/main/Tasks/imaotai/imaotai.js, tag=i 茅台, enabled=false",
